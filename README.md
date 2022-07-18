@@ -57,26 +57,10 @@ Workflow
 In 2nd Notebook, I need to define our deep learning model. So we have downloaded a faster resnet50 model. It is already pre-trained model just we need to feed our images. After that, we need to edit config file of model and need to give a path of our images, record file. Then I did training in II notebook (Train.ipynb) which is available in aiprojects folder in drive. Our training taken almost 1/2h, after the getting expected accuracy, I stopped the training. With code, we generate the confusion matrix of our training. Resnet50 (Pre-Trained model) gives me 0.95 accuracy. Now it is time for testing. 
 
 
-
-
-
-
-
- 
-                                         ACCURACY OF PROPOSED SYSTEM
-
-
-
-                                                        Confusion Matrix
-
-
 Results
 In 3rd Notebook, I tested our models on different currencies. You can see the results & testing below.
   
-
-     
-     
-    Images shows output of our trained model for different amount notes.
+  https://drive.google.com/file/d/19dxLmR6S8Hh9tA7L4RAlsJge334XljpM/view?usp=sharing
 
 Conclusion
 By learning from Geeksman AI squad on Image Classification and Deep learning, I in this project choose resnet50 model to train model and recognize Indian currency very well, which will help a lot to visual disable, foreign and old age people.
@@ -89,8 +73,3 @@ www.stackoverflow.com
 https://colab.research.google.com/github/pttrilok/practical_deep_learning/blob/master/Lesson%201%20Computer%20Vision.ipynb#scrollTo=sUe9Wxmh01iv
 https://colab.research.google.com/github/pttrilok/practical_deep_learning/blob/master/Lesson%202%20Computer%20Vision.ipynb
 https://colab.research.google.com/github/pttrilok/practical_deep_learning/blob/master/Lesson%203%20Computer%20Vision.ipynb#scrollTo=uNGsyTjC7Apf
-
-
-
-
-
