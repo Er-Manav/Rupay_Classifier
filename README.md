@@ -1,24 +1,9 @@
-Indian Currency Recognition
+##Rupay Classifier
 
 
 
 Abstract  
 Advancement of Technology has replaced humans in almost every field with machines. By introducing machines, banking automation has reduced human workload. More care is required to handle currency, which is reduced by automation of banking. The identification of the currency value is hard when currency notes are blurry or damaged. Complex designs are included to enhance security of currency. This makes the task of currency recognition very difficult. To correctly recognize a currency it is very significant to choose the good features and suitable algorithm. In proposed method, Money Detector is used for segmentation and for classification, Deep learning is used which gives 95.6% accuracy. Foreign and Visually disable people in India often find difficulties in recognizing different currency notes. Even if some time it is also difficult for Indian healthy people to identify same amount of currency notes with different-new designs. Human eye has also some limitation so some time fake currency not identifiable by them. In this project using deep learning technique, detection model trained with dataset and tested it with different Indian currency with good accuracy.
-
-
-
-
-
-
-
-Acknowledgement
-The First project work was completed as a part of Geeksman AI Squad at the J.C. Bose University of Science and Technology, YMCA. At this moment I would like to thank my teachers for their support; my friends for their encouragement.
-Among them I would like to especially thank my supervisor Trilok Sir, Snehal Ma’am,  Mridul Sir providing me with a lot of help during the learning process. They can patiently explain to me the questions I have asked, which makes me much confident to continue my project work.
-
-Manav Bansal
-Electronics and Computer Engineering
-
-
 
 
 Introduction
