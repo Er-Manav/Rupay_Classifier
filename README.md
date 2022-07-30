@@ -61,6 +61,11 @@ Results
 In 3rd Notebook, I tested our models on different currencies. You can see the results & testing below.
   
   https://drive.google.com/file/d/19dxLmR6S8Hh9tA7L4RAlsJge334XljpM/view?usp=sharing
+  
+Confusion Matrix
+
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/69981113/181875640-765dd84d-0687-42d9-8575-6e1ee37c5b78.png">
+
 
 Conclusion
 By learning from Geeksman AI squad on Image Classification and Deep learning, I in this project choose resnet50 model to train model and recognize Indian currency very well, which will help a lot to visual disable, foreign and old age people.
